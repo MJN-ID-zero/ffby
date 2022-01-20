@@ -1,6 +1,6 @@
 # ffby
 # installasi
-'''
+
 
 ~ pkg update && pkg upgrade
 
@@ -18,5 +18,5 @@
 
 ~ pip2 install mechanize
 
-~ python2 GbyFB.py
-'''
+~ python2 Ffby.py
+

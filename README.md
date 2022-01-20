@@ -1,7 +1,7 @@
 # ffby
-#installasi
-
+# installasi
 '''
+
 ~ pkg update && pkg upgrade
 
 ~ pkg install git

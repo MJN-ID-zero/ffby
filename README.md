@@ -1,5 +1,7 @@
 # ffby
 #installasi
+
+'''
 ~ pkg update && pkg upgrade
 
 ~ pkg install git
@@ -17,3 +19,4 @@
 ~ pip2 install mechanize
 
 ~ python2 GbyFB.py
+'''
